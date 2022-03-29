@@ -1,2 +1,2 @@
-# resize-infinity-table
+# test-infinite
 Created with CodeSandbox
